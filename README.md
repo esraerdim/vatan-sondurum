@@ -1,4 +1,4 @@
-# vatantan
+# vatan
 
 ## Project setup
 ```
