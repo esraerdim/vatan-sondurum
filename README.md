@@ -1,3 +1,9 @@
+A cloning of the https://www.vatanbilgisayar.com/ site has been made. (3rd class web development project assignment)
+
+
+
+
+
 # vatan
 
 ## Project setup
